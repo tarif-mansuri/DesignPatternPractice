@@ -1,4 +1,4 @@
-package com.assignment.question;
+package com.assignment.question1.fileconfigurationmanager;
 
 public class FileBasedConfigurationManagerImpl extends FileBasedConfigurationManager{
 

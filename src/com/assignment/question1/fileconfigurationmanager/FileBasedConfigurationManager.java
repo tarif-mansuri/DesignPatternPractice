@@ -1,4 +1,4 @@
-package com.assignment.question;
+package com.assignment.question1.fileconfigurationmanager;
 
 import java.io.FileInputStream;
 import java.io.IOException;

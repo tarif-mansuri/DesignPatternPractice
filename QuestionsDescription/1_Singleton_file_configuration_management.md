@@ -1,5 +1,7 @@
 # DesignPatternPractice
 
+**related package** com.assignment.question1.fileconfigurationmanager
+
 **File based configuration manager**
 
 **Problem Statement**
