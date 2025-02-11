@@ -1,4 +1,13 @@
 package com.assignment.question2.connectionpool;
 
-public class ConnectionPool {
+public interface ConnectionPool {
+    void initializePool();
+
+    DatabaseConnection getConnection();
+
+    void releaseConnection(DatabaseConnection connection);
+
+    int getAvailableConnectionsCount();
+
+    int getTotalConnectionsCount();
 }
